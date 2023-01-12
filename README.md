@@ -1,4 +1,4 @@
-## Data Scraping Project
+# Data Scraping Project
 
 This project aims to gather data on players from various websites, including Wikipedia, to assist club recruiters in making informed decisions.
 Getting Started
