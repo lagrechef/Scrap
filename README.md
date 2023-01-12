@@ -8,10 +8,11 @@ To run this project, you will need to have Python and the following packages ins
     BeautifulSoup
     Pandas
     Requests
+    sodium
 
 You can install these packages by running the following command:
 
-pip install beautifulsoup4 pandas requests
+    pip install beautifulsoup4 pandas requests sodium
 
 # Scraping Data
 
